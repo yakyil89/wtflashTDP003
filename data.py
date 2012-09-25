@@ -32,7 +32,30 @@ def get_techniques(db):
     lis.sort()
     return lis
 
+def get_technique_stats(db):
+    """Collects and returns statistics for all the techniques used in the
+    project list"""
+    techs = get_techniques(db)
+    print techs
+    dic = {}
+    for t in techs:
+        name = []
+        id = []
+        for i in range(len(db)):
+            lis = []
+            if t in db[i]["techniques_used"]:
+                name.insert(0, db[i]["project_name"])
+                id.insert(0, db[i]["project_no"])
+            for l in range(len(name)):
+                lis.append({u'id': id[l], u'name': name[l]})
+                dic[t] = lis
+    return dic
+                
+                
+            
+    
 print get_techniques(load('data.json'))
 get_project(load('data.json'), 2)
 get_project_count(load('data.json'))
 load('data.json')
+print get_technique_stats(load('data.json'))
