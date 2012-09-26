@@ -3,7 +3,8 @@
 import json
 
 def load(name):
-    """Loads a json file and returns the result."""
+    """Reads a given file and returns it's content. Returns None if no file
+    was found."""
     try: 
         with open(name, 'r') as json_file:
             data = json.load(json_file)
@@ -12,11 +13,11 @@ def load(name):
         return
 
 def get_project_count(db):
-    """Returns the length of the list as an int."""
+    """Returns the number of objects in a given list."""
     return len(db)
 
 def get_project(db, id):
-    """Returns the dictionary containing the project with a given id."""
+    """Returns a dictionary containing the project with a given id."""
     for i in range(len(db)):
         if db[i]["project_no"] == id:
             return db[i]
@@ -34,28 +35,27 @@ def get_techniques(db):
 
 def get_technique_stats(db):
     """Collects and returns statistics for all the techniques used in the
-    project list"""
+    project list."""
+    # Variable that holds all techniques used.
     techs = get_techniques(db)
-    print techs
+    # Creates an empty dictionary to hold the technique statistics.
     dic = {}
+    # Iterates through all techniques.
     for t in techs:
         name = []
         id = []
+        # Iterates through all projects for every available technique.
         for i in range(len(db)):
             lis = []
             if t in db[i]["techniques_used"]:
+                # Fills a list with the names of all projects usin the technique
                 name.insert(0, db[i]["project_name"])
+                # Fills a list with the IDs of all projects usin the technique.
                 id.insert(0, db[i]["project_no"])
+            # Iterates through all names saved in the previous step.    
             for l in range(len(name)):
+                # Appends all id/name pairs to a list.
                 lis.append({u'id': id[l], u'name': name[l]})
-                dic[t] = lis
+            # Adds the list to the dictionary, with the technique as key.
+            dic[t] = lis
     return dic
-                
-                
-            
-    
-print get_techniques(load('data.json'))
-get_project(load('data.json'), 2)
-get_project_count(load('data.json'))
-load('data.json')
-print get_technique_stats(load('data.json'))
