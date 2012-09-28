@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+"""
+This module makes out the data layer of the portfolio project in the
+course TDP003 at Innovativ Programmering, Linköping's University, Sweden
+"""
+
 import json
 
 def load(name):
