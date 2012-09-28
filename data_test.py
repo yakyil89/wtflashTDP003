@@ -32,7 +32,7 @@ class DataTest(unittest.TestCase):
     def test_search(self):
         self.assertEqual(len(data.search(self.loaded_data)), 4)
 
-        self.assertEqual(len(data.search(self.loaded_data, techniques=[u'csv'])), 1)
+        self.assertEqual(len(data.search(self.loaded_data, techniques=['csv'])), 1)
 
         res = data.search(self.loaded_data, sort_order='asc',techniques=["python"])
         self.assertEqual(res[0][u'project_no'], 1)
