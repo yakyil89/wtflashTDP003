@@ -9,6 +9,7 @@ def load(name):
         with open(name, 'r') as json_file:
             data = json.load(json_file)
             return data
+    # If the file doesn't exist, return None.
     except:
         return
 
@@ -18,17 +19,19 @@ def get_project_count(db):
 
 def get_project(db, id):
     """Returns a dictionary containing the project with a given id."""
-    for i in range(len(db)):
-        if db[i]["project_no"] == id:
-            return db[i]
+    for i in db:
+        if i["project_no"] == id:
+            return i
     return
 
 def get_techniques(db):
     """Returns a list of all techniques used, ordered alphabetically."""
+    # Use set instead of list to avoid duplets
     the_set = set()
-    for i in range(len(db)):
-        for t in range(len(db[i]["techniques_used"])):
-            the_set.add(db[i]["techniques_used"][t])
+    for i in db:
+        for t in i["techniques_used"]:
+            the_set.add(t)
+    # Convert the set to a list and sort it.
     lis = list(the_set)
     lis.sort()
     return lis
