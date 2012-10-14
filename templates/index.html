@@ -1,12 +1,15 @@
 {% extends "layout.html" %}
 {% block content %}
-<div id="article_header">
-  <h1>Portfolio</h1>
-</div>
-{% for i in range(10) %}
+<div id="article_header"><h1>Portfolio</h1></div>
+{% for d in data.get_random_projects(db) %}
+<a href="/list">
 <div id="article">
-  <p>{{i}}</p>
+  <img src="{{d['small_image']}}">
+  <h2>{{d['project_name']}}</h2>
+  <p><em>{{d['start_date']}}  -  {{d['end_date']}}</em></p>
+  <p>{{d['short_description']}}</p>
 </div>
+</a>
 {% endfor %}
 
 {% endblock %}

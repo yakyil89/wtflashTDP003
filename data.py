@@ -7,11 +7,12 @@ course TDP003 at Innovativ Programmering, Linköping's University, Sweden
 """
 
 import json
+import random
 
 def load(name):
     """Reads a given file and returns it's content. Returns None if no file
     was found."""
-    try: 
+    try:
         with open(name, 'r') as json_file:
             data = json.load(json_file)
             return data
@@ -175,4 +176,17 @@ def search(db, sort_by=u'start_date', sort_order=u'desc', techniques=None,
             if tech_lis[l][sort_by] == sort_key[k]:
                 sorted_lis.append(tech_lis[l])
     return sorted_lis
+
+def get_random_projects(db):
+    """Takes a dict with projects and returns 3 random projects as a list."""
+    length = get_project_count(db) + 1
+    lst = []
+    while len(lst) < 3:
+        rand = random.randrange(1, length)
+        if rand not in lst:
+           lst.append(rand)
+    res = []
+    for l in lst:
+        res.append(get_project(db, l))
+    return res
 

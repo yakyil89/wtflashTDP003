@@ -1,11 +1,14 @@
 # -*- coding-utf-8 -*-
 from flask import Flask, request, url_for, render_template
+import data
+db = data.load('data.json')
+
 app = Flask(__name__)
 app.debug = True
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', data=data, db=db)
 
 @app.route('/list/')
 def list():
