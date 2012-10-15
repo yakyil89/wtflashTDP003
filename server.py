@@ -12,15 +12,18 @@ def index():
 
 @app.route('/list/')
 def list():
-    return render_template('list.html')
+    sorted_db = data.order(db)
+    return render_template('list.html', db=sorted_db)
 
-@app.route('/project/<project_id>/')
+@app.route('/project/<int:project_id>/')
 def project(project_id):
-    return render_template('project.html' + project_id)
+    project = data.get_project(db, project_id)
+    return render_template('project.html', project=project)
 
 @app.route('/techniques/')
 def techniques():
-    return render_template('techniques.html')
+    techniques = data.get_techniques(db)
+    return render_template('techniques.html', techniques=techniques, db=db)
 
 @app.route('/search/')
 def search():

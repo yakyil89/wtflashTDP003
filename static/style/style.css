@@ -4,7 +4,7 @@
 }
 
 p{
-    font: Tahoma;
+    font: 14px tahoma;
     text-align: justify;
     color: #6b1745;
 }
@@ -115,14 +115,29 @@ h2{
 }
 
 #article:hover{
-    background: #ddd;
+    background: #fecaee;
 }
 
-#article img{
+#article_no_hover{
+    min-height: 150px;
+    background: #fedbee;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    box-shadow: #b99 2px 2px 2px;
+}
+
+#small_img{
     float: right;
     height: 150px;
     max-width: 200px;
     margin: 0px 0px 10px 10px;
+}
+
+#big_img{
+    float: left;
+    width: 610px;
+    max-height: 610px;
 }
 
 a:link{

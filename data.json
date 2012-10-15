@@ -8,7 +8,7 @@
     "academic_credits": "WUT?",
     "lulz_had": "many",
     "external_link": "YY",
-    "small_image": "../static/images/bantana_small.jpg",
+    "small_image": "bantana_small.jpg",
     "techniques_used": [
       "python"
     ],
@@ -16,7 +16,7 @@
     "course_id": "TDP003",
     "end_date": "2009-09-06",
     "project_no": 1,
-    "big_image": "../static/images/bantana.jpg"
+    "big_image": "bantana.jpg"
   },
   {
     "start_date": "2009-09-07",
@@ -27,7 +27,7 @@
     "academic_credits": "WUT?",
     "lulz_had": "few",
     "external_link": "YY",
-    "small_image": "../static/images/bantnaner_small.jpg",
+    "small_image": "bantnaner_small.jpg",
     "techniques_used": [
       "c++",
       "csv",
@@ -37,7 +37,7 @@
     "course_id": "TDP003",
     "end_date": "2009-09-08",
     "project_no": 3,
-    "big_image": "../static/images/bantnaner.jpg"
+    "big_image": "bantnaner.jpg"
   },
   {
     "start_date": "2009-09-08",
@@ -48,7 +48,7 @@
     "academic_credits": "WUT?",
     "lulz_had": "medium",
     "external_link": "YY",
-    "small_image": "../static/images/elebant_small.jpg",
+    "small_image": "elebant_small.jpg",
     "techniques_used": [
       "ada",
       "python"
@@ -57,7 +57,7 @@
     "course_id": "TDP003",
     "end_date": "2009-09-09",
     "project_no": 2,
-    "big_image": "../static/images/elebant.jpg"
+    "big_image": "elebant.jpg"
   },
   {
     "start_date": "2009-09-06",
@@ -68,7 +68,7 @@
     "academic_credits": "WUT?",
     "lulz_had": "over 9000",
     "external_link": "YY",
-    "small_image": "../static/images/four_small.jpg",
+    "small_image": "four_small.jpg",
     "techniques_used": [
 
     ],
@@ -76,6 +76,6 @@
     "course_id": " \"",
     "end_date": "2009-09-07",
     "project_no": 4,
-    "big_image": "../static/images/four.jpg"
+    "big_image": "four.jpg"
   }
 ]

@@ -1,9 +1,27 @@
 {% extends "layout.html" %}
 {% block content %}
+
+{% for technique in techniques%}
 <div id="article_header">
-  <h1>Techniques</h1>
+  <h1>{{technique}}</h1>
 </div>
+{% for d in db %}
+{% if technique in d['techniques_used'] %}
+<a href="/project/{{d['project_no']}}">
 <div id="article">
-  <p>;)</p>
+  <img id="small_img" src="/static/images/{{d['small_image']}}">
+  <h2>{{d['project_name']}}</h2>
+  <p><em>{{d['start_date']}}  -  {{d['end_date']}}</em></p>
+  <p>{{d['short_description']}}</p><br>
+  <p><b>Använda tekniker: </b>
+    <em>{% for technique in d['techniques_used'] %}
+    {% if not technique == d['techniques_used'][0] %}, {% endif %}
+    {{technique}}
+    {% endfor %}</em></p>
 </div>
+</a>
+{% endif %}
+{% endfor %}
+{% endfor %}
+
 {% endblock %}

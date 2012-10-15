@@ -1,9 +1,41 @@
 {% extends "layout.html" %}
 {% block content %}
-<div id="article_header">
-  <h1>Project</h1>
-</div>
-<div id="article">
-  <p>;)</p>
+<div id="article_header"><h1>{{project['project_name']}}</h1></div>
+
+<div id="article_no_hover">
+  <table>
+    <tr>
+      <td><p><strong>Kursnamn:</strong></p></td>
+      <td><p><em>{{project['course_name']}}</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Kurskod:</strong></p></td>
+      <td><p><em>{{project['course_id']}}</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Startdatum:</strong></p></td>
+      <td><p><em>{{project['start_date']}}</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Slutdatum:</strong></p></td>
+      <td><p><em>{{project['end_date']}}</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Antal högskolepoäng:</strong></p></td>
+      <td><p><em>{{project['academic_credits']}} hp</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Gruppstorlek:</strong></p></td>
+      <td><p><em>{{project['group_size']}} personer</em></p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Använda tekniker:</strong></p></td>
+      <td><p><em>{% for technique in project['techniques_used'] %}
+	    {% if not technique == project['techniques_used'][0] %}, {% endif %}
+	    {{technique}}{% endfor %}</em></p></td>
+    </tr>
+  </table>
+  <br><p>{{project['long_description']}}</p><br>
+  <img id="big_image" src="/static/images/{{project['big_image']}}">
 </div>
 {% endblock %}

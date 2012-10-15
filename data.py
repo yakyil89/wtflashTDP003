@@ -190,3 +190,18 @@ def get_random_projects(db):
         res.append(get_project(db, l))
     return res
 
+def order(db, sort_by='start_date'):
+    """Takes a database an a key and sorts the db after the key's values."""
+    sort_key = []
+    sorted_lis = []
+    for i in range(len(db)):
+        sort_key.append(db[i][sort_by])
+    sort_key.sort()
+    sort_key.reverse()
+
+    for k in range(len(sort_key)):
+        for l in range(len(db)):
+            # Appends objects from db to sorted_lis in sorted order.
+            if db[l][sort_by] == sort_key[k]:
+                sorted_lis.append(db[l])
+    return sorted_lis
