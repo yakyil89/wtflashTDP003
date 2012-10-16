@@ -21,14 +21,7 @@ def log(page, data=None):
         log_text = date + '\t' + 'accessed: ' + page + '\n'
     with open('log.log', 'a') as log:
         log.write(log_text)
-    
-@app.errorhandler(404)
-def page_not_found(e):
-    return render_template('404.html', data=data, db=db), 404
 
-@app.errorhandler(500)
-def page_not_found(e):
-    return render_template('500.html', data=data, db=db), 500
 
 @app.route('/')
 def index():
@@ -79,6 +72,14 @@ def search():
     
     lst = data.search(db, search=key, search_fields=search_fields, techniques=techniques, sort_by=sort_by, sort_order=sort_order)
     return render_template('search.html', data=data, db=db, lst=lst)
+    
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html', data=data, db=db), 404
+
+@app.errorhandler(500)
+def page_not_found(e):
+    return render_template('500.html', data=data, db=db), 500
 
 if __name__ == '__main__':
     app.run()

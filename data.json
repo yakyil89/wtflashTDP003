@@ -5,8 +5,7 @@
     "course_name": "OK\u00c4NT",
     "long_description": "no no no",
     "group_size": 2,
-    "academic_credits": "WUT?",
-    "lulz_had": "many",
+    "academic_credits": "4",
     "external_link": "YY",
     "small_image": "bantana_small.jpg",
     "techniques_used": [
@@ -20,12 +19,11 @@
   },
   {
     "start_date": "2009-09-07",
-    "short_description": "no",
+    "short_description": "hej",
     "course_name": "OK\u00c4NT",
     "long_description": "no no no",
     "group_size": 4,
-    "academic_credits": "WUT?",
-    "lulz_had": "few",
+    "academic_credits": "8",
     "external_link": "YY",
     "small_image": "bantnaner_small.jpg",
     "techniques_used": [
@@ -45,8 +43,7 @@
     "course_name": "OK\u00c4NT",
     "long_description": "no no no",
     "group_size": 6,
-    "academic_credits": "WUT?",
-    "lulz_had": "medium",
+    "academic_credits": "2",
     "external_link": "YY",
     "small_image": "elebant_small.jpg",
     "techniques_used": [
@@ -65,8 +62,7 @@
     "course_name": "HOHO",
     "long_description": "no no no",
     "group_size": 8,
-    "academic_credits": "WUT?",
-    "lulz_had": "over 9000",
+    "academic_credits": "OVER 9000",
     "external_link": "YY",
     "small_image": "four_small.jpg",
     "techniques_used": [
@@ -77,5 +73,28 @@
     "end_date": "2009-09-07",
     "project_no": 4,
     "big_image": "four.jpg"
+  },
+  {
+    "start_date": "2012-09-06",
+    "short_description": "I detta projekt skulle vi skapa en dynamisk hemsida för att kunna presentera alla projekt vi utför på programmet.",
+    "course_name": "Egna datormiljön",
+    "long_description": "Här följer en lite längre beskrivning av projektet som jag inte har tid att skriva nu, men man skulle lämpligen kunna ha med hur systemet är uppbyggt och skriva lite om sökfunktionen t.ex.",
+    "group_size": 2,
+    "academic_credits": "6.0",
+    "external_link": "YY",
+    "small_image": "portfolio.jpg",
+    "techniques_used": [
+    	"python",
+    	"XHTML",
+	"CSS",
+	"FLASK",
+	"Jinja 2",
+	"JSON"
+    ],
+    "project_name": "Portfolioprojektet",
+    "course_id": "TDP003",
+    "end_date": "2012-10-24",
+    "project_no": 5,
+    "big_image": "portfolio.jpg"
   }
 ]
