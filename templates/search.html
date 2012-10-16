@@ -1,6 +1,10 @@
 {% extends "layout.html" %}
 {% block content %}
 
+<div id="article_header">
+  <h1>Sökresultat</h1>
+</div>
+
 {% for l in lst %}
 <a href="/project/{{l['project_no']}}">
   <div id="article">
@@ -16,4 +20,10 @@
   </div>
 </a>
 {% endfor %}
+{% if lst == [] %}
+<div id="article_no_hover">
+  <h2><center>No Matches!</center></h2>
+</div>
+{% endif %}
+
 {% endblock %}

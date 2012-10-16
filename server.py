@@ -8,22 +8,39 @@ all_techniques = data.get_techniques(db)
 app = Flask(__name__)
 app.debug = True
 
+import datetime
+def log(page, data=None):
+    date = datetime.datetime.now()
+    date = date.strftime("%Y-%M-%D %H:%M")
+    if data:
+        log_text = date + '\t' + 'accessed: ' + page + '\t' + 'with ' + data + '\n'
+    else:
+        log_text = date + '\t' + 'accessed: ' + page + '\n'
+    with open('log.log', 'a') as log:
+        log.write(log_text)
+    
+
+
 @app.route('/')
 def index():
+    log('index.html')
     return render_template('index.html', data=data, db=db)
 
 @app.route('/list/')
 def list():
+    log('list.html')
     sorted_db = data.order(db)
     return render_template('list.html', data=data, db=sorted_db)
 
 @app.route('/project/<int:project_id>/')
 def project(project_id):
+    log('project.html', ('id: ' + str(project_id)))
     project = data.get_project(db, project_id)
     return render_template('project.html', all_techniques=all_techniques, data=data, project=project)
 
 @app.route('/techniques/')
 def techniques():
+    log('techniques.html')
     techniques = data.get_techniques(db)
     return render_template('techniques.html', all_techniques=all_techniques, data=data, techniques=techniques, db=db)
 
@@ -45,9 +62,12 @@ def search():
     sort_by = request.form['sort_by']
 
     sort_order = request.form['sort_order'].encode('UTF-8')
-
+    
+    logtext = [key, search_fields, techniques, sort_by, sort_order]
+    log('search.html', ('parameters: ' + str(logtext)))
+    
     lst = data.search(db, search=key, search_fields=search_fields, techniques=techniques, sort_by=sort_by, sort_order=sort_order)
-    return render_template('search.html', data=data, db=db, lst=lst, sort_order=sort_order)
+    return render_template('search.html', data=data, db=db, lst=lst)
 
 if __name__ == '__main__':
     app.run()
