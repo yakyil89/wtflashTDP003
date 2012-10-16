@@ -18,7 +18,6 @@
       <li><a href="/">Hem</a></li>
       <li><a href="/list">Projekt</a></li>
       <li><a href="/techniques">Tekniker</a></li>
-      <li><a href="/search">Avancerad Sökning</a></li>
     </ul>
   </div>
   <div id="side_bar">
@@ -29,6 +28,47 @@
       <p>1993-01-23</p>
       <p>076 - 055 73 70</p>
       <p>bantonlindgren@gmail.com</p>
+
+      <br /><hr /><br />
+      <h2>Sök projekt</h2><br />
+      <form action="/search/" method="POST" enctype="UTF-8">
+	<p><strong>Söktext:</strong></p>
+	<input name="key"></input><br></br>
+	<p><strong>Sök bland:</strong></p><p>
+	<p><input type="checkbox" name="search_fields" value="long_description">
+	    Lång beskrivning</input></p>
+	<p><input type="checkbox" name="search_fields" value="short_description">
+	    Kort beskrivning</input></p>
+	<p><input type="checkbox" name="search_fields" value="course_name">
+	    Kursnamn</input></p>
+	<p><input type="checkbox" name="search_fields" value="project_name">
+	    Projektnamn</input></p>
+	<p><input type="checkbox" name="search_fields" value="course_id">
+	    Kurskod</input></p>
+	<br />
+
+	<p><strong>Tekniker:</strong></p><p>
+	  {% for t in data.get_techniques(db) %}
+	<p><input type="checkbox" name="techniques" value="{{t}}">
+	    {{t}}</input></p>
+	{% endfor %}<br />
+
+	<p><strong>Sortera efter:</strong></p>
+	<select name="sort_by">
+	  <option value="start_date">Startdatum</option>
+	  <option value="end_date">Slutdatum</option>
+	  <option value="project_name">Projektnamn</option>
+	</select><br></br>
+	<p><strong>Sorteringsordning:</strong></p>
+	<p>Fallande
+	  <input type="radio" name="sort_order" value="desc" checked></input>
+	  &nbsp;&nbsp;
+	  Stigande
+	  <input type="radio" name="sort_order" value="asc"></input></p><br />
+	<input type="submit" value="Sök"></input>
+      </form>
+
+
   </div>
   <div id="content">
     {% block content %} {% endblock %}

@@ -1,6 +1,19 @@
 {% extends "layout.html" %}
 {% block content %}
-<div id="article_header">
-  <h1>search</h1>
-</div>
+
+{% for l in lst %}
+<a href="/project/{{l['project_no']}}">
+  <div id="article">
+    <img id="small_img" src="/static/images/{{l['small_image']}}">
+    <h2>{{l['project_name']}}</h2>
+    <p><em>{{l['start_date']}}  -  {{l['end_date']}}</em></p>
+    <p>{{l['short_description']}}</p><br>
+    <p><b>Använda tekniker: </b>
+      <em>{% for technique in l['techniques_used'] %}
+	{% if not technique == l['techniques_used'][0] %}, {% endif %}
+	{{technique}}
+	{% endfor %}</em></p>
+  </div>
+</a>
+{% endfor %}
 {% endblock %}

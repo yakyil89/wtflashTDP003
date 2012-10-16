@@ -126,6 +126,9 @@ def search(db, sort_by=u'start_date', sort_order=u'desc', techniques=None,
     """Given a set of parameters, this function searches through the matching
     project. Returns a list of the projects and their attributes."""
 
+    if search != None:
+        search = search.decode('UTF-8')
+
     # Return empty list if search or search_fields is empty.
     if search_fields == '':
         return
