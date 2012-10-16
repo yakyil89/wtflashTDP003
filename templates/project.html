@@ -1,7 +1,8 @@
 {% extends "layout.html" %}
 {% block content %}
-<div id="article_header"><h1>{{project['project_name']}}</h1></div>
 
+{% if project %}
+<div id="article_header"><h1>{{project['project_name']}}</h1></div>
 <div id="article_no_hover">
   <table>
     <tr>
@@ -38,4 +39,10 @@
   <br><p>{{project['long_description']}}</p><br>
   <img id="big_image" src="/static/images/{{project['big_image']}}">
 </div>
+{% endif %}
+{% if project == None %}
+<div id="article_no_hover">
+  <h2><center>Project ID doesn't exist</center></h2>
+</div>
+{% endif %}
 {% endblock %}

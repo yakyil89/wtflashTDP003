@@ -43,6 +43,15 @@ def get_techniques(db):
     lis.sort()
     return lis
 
+def get_ids(db):
+    """Returns a list of all project-ids"""
+    # Use set instead of list to avoid duplets
+    lst = []
+    for d in db:
+        lst.append(d['project_no'])
+    lst.sort()
+    return lst
+
 def get_technique_stats(db):
     """Reads a list of projects and returns a dictionary with stats for the
     used techniques."""

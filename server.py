@@ -10,6 +10,9 @@ app.debug = True
 
 import datetime
 def log(page, data=None):
+    """Takes a page name and an optional data parameter.
+    Saves the result nicely formatted in log.log (creates the log file if
+    it doesn't allready exist)."""
     date = datetime.datetime.now()
     date = date.strftime("%Y-%M-%D %H:%M")
     if data:
@@ -19,7 +22,13 @@ def log(page, data=None):
     with open('log.log', 'a') as log:
         log.write(log_text)
     
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html', data=data, db=db), 404
 
+@app.errorhandler(500)
+def page_not_found(e):
+    return render_template('500.html', data=data, db=db), 500
 
 @app.route('/')
 def index():
@@ -36,7 +45,9 @@ def list():
 def project(project_id):
     log('project.html', ('id: ' + str(project_id)))
     project = data.get_project(db, project_id)
-    return render_template('project.html', all_techniques=all_techniques, data=data, project=project)
+    if not project_id in data.get_ids(db):
+        project = None
+    return render_template('project.html', data=data, db=db, project=project)
 
 @app.route('/techniques/')
 def techniques():
