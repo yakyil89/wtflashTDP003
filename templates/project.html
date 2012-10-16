@@ -1,4 +1,4 @@
-{% extends "layout.html" %}
+'{% extends "layout.html" %}
 {% block content %}
 
 {% if project %}
@@ -37,7 +37,7 @@
     </tr>
   </table>
   <br><p>{{project['long_description']}}</p><br>
-  <img id="big_image" src="/static/images/{{project['big_image']}}">
+  <img src="/static/images/{{project['big_image']}}">
 </div>
 {% endif %}
 {% if project == None %}

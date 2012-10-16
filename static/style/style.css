@@ -133,6 +133,13 @@ h2{
     background: #fecaee;
 }
 
+#article img{
+    float: right;
+    height: 150px;
+    max-width: 200px;
+    margin: 0px 0px 10px 10px;
+}
+
 #article_no_hover{
     min-height: 150px;
     background: #fedbee;
@@ -142,18 +149,17 @@ h2{
     box-shadow: #b99 2px 2px 2px;
 }
 
-#small_img{
+#article_no_hover img{
+    max-width: 610px;
+    max-height: 610px;
+}
+
+/*#small_img{
     float: right;
     height: 150px;
     max-width: 200px;
     margin: 0px 0px 10px 10px;
-}
-
-#big_img{
-    float: left;
-    width: 610px;
-    max-height: 610px;
-}
+}*/
 
 a:link{
     font: bold 16px tahoma;

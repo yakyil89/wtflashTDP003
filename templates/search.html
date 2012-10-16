@@ -8,7 +8,7 @@
 {% for l in lst %}
 <a href="/project/{{l['project_no']}}">
   <div id="article">
-    <img id="small_img" src="/static/images/{{l['small_image']}}">
+    <img src="/static/images/{{l['small_image']}}">
     <h2>{{l['project_name']}}</h2>
     <p><em>{{l['start_date']}}  -  {{l['end_date']}}</em></p>
     <p>{{l['short_description']}}</p><br>
