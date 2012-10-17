@@ -42,3 +42,498 @@
 2012-32-10/17/12 00:32	accessed: techniques.html
 2012-33-10/17/12 00:33	accessed: index.html
 2012-34-10/17/12 00:34	accessed: project.html	with id: 7
+2012-22-10/17/12 08:22	accessed: index.html
+2012-22-10/17/12 08:22	accessed: project.html	with id: 2
+2012-22-10/17/12 08:22	accessed: project.html	with id: 4
+2012-24-10/17/12 08:24	accessed: index.html
+2012-24-10/17/12 08:24	accessed: index.html
+2012-24-10/17/12 08:24	accessed: project.html	with id: 5
+2012-24-10/17/12 08:24	accessed: index.html
+2012-24-10/17/12 08:24	accessed: project.html	with id: 4
+2012-24-10/17/12 08:24	accessed: index.html
+2012-24-10/17/12 08:24	accessed: project.html	with id: 5
+2012-24-10/17/12 08:24	accessed: index.html
+2012-25-10/17/12 08:25	accessed: list.html
+2012-25-10/17/12 08:25	accessed: techniques.html
+2012-25-10/17/12 08:25	accessed: project.html	with id: 5
+2012-44-10/17/12 08:44	accessed: list.html
+2012-44-10/17/12 08:44	accessed: techniques.html
+2012-45-10/17/12 08:45	accessed: search.html	with parameters: ['JINJA', None, None, u'start_date', 'desc']
+2012-45-10/17/12 08:45	accessed: search.html	with parameters: ['JINJA 2', None, None, u'start_date', 'desc']
+2012-45-10/17/12 08:45	accessed: search.html	with parameters: ['FLASK', None, None, u'start_date', 'desc']
+2012-46-10/17/12 08:46	accessed: search.html	with parameters: ['PORTFOLIO', None, None, u'start_date', 'desc']
+2012-46-10/17/12 08:46	accessed: search.html	with parameters: ['\xc3\xa5\xc3\xa4H', None, None, u'start_date', 'desc']
+2012-46-10/17/12 08:46	accessed: index.html
+2012-55-10/17/12 08:55	accessed: index.html
+2012-55-10/17/12 08:55	accessed: index.html
+2012-01-10/17/12 09:01	accessed: list.html
+2012-01-10/17/12 09:01	accessed: project.html	with id: 5
+2012-05-10/17/12 09:05	accessed: list.html
+2012-05-10/17/12 09:05	accessed: index.html
+2012-05-10/17/12 09:05	accessed: project.html	with id: 1
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: list.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: techniques.html
+2012-07-10/17/12 09:07	accessed: list.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: index.html
+2012-07-10/17/12 09:07	accessed: list.html
+2012-35-10/17/12 09:35	accessed: list.html
+2012-35-10/17/12 09:35	accessed: index.html
+2012-36-10/17/12 09:36	accessed: search.html	with parameters: ['\xc3\xa5', None, None, u'start_date', 'desc']
+2012-36-10/17/12 09:36	accessed: search.html	with parameters: ['#"\xc2\xa4!"%\xc3\xa536\xc3\xa554\xc3\xa4\'5\xc3\xa4\'436\xc3\xb654\'64\xc3\xa5\xc3\xa4', None, None, u'start_date', 'desc']
+2012-36-10/17/12 09:36	accessed: search.html	with parameters: [None, [u'project_name', u'course_name', u'course_id'], [u'CSS', u'FLASK', u'JSON', u'Jinja 2', u'XHTML', u'ada', u'c++', u'csv', u'python'], u'start_date', 'desc']
+2012-37-10/17/12 09:37	accessed: project.html	with id: 5
+2012-37-10/17/12 09:37	accessed: techniques.html
+2012-37-10/17/12 09:37	accessed: search.html	with parameters: ['OK\xc3\xa4NT', None, [u'python'], u'start_date', 'desc']
+2012-37-10/17/12 09:37	accessed: search.html	with parameters: ['OK\xc3\xa4NT', None, [u'python'], u'start_date', 'asc']
+2012-38-10/17/12 09:38	accessed: list.html
+2012-38-10/17/12 09:38	accessed: project.html	with id: 2
+2012-38-10/17/12 09:38	accessed: index.html
+2012-38-10/17/12 09:38	accessed: project.html	with id: 8
+2012-39-10/17/12 09:39	accessed: list.html
+2012-39-10/17/12 09:39	accessed: techniques.html
+2012-39-10/17/12 09:39	accessed: search.html	with parameters: ['HEJ', None, None, u'start_date', 'desc']
+2012-39-10/17/12 09:39	accessed: search.html	with parameters: ['HEJ', None, None, u'start_date', 'desc']
+2012-40-10/17/12 09:40	accessed: index.html
+2012-41-10/17/12 09:41	accessed: index.html
+2012-41-10/17/12 09:41	accessed: list.html
+2012-42-10/17/12 09:42	accessed: techniques.html
+2012-42-10/17/12 09:42	accessed: search.html	with parameters: ['NO', None, [u'python'], u'start_date', 'desc']
+2012-43-10/17/12 09:43	accessed: project.html	with id: 1
+2012-43-10/17/12 09:43	accessed: list.html
+2012-43-10/17/12 09:43	accessed: project.html	with id: 2
+2012-44-10/17/12 09:44	accessed: search.html	with parameters: ['TDP003', [u'course_id'], [u'python'], u'project_name', 'desc']
+2012-45-10/17/12 09:45	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-45-10/17/12 09:45	accessed: project.html	with id: 5
+2012-45-10/17/12 09:45	accessed: techniques.html
+2012-45-10/17/12 09:45	accessed: list.html
+2012-45-10/17/12 09:45	accessed: project.html	with id: 5
+2012-45-10/17/12 09:45	accessed: project.html	with id: 6
+2012-45-10/17/12 09:45	accessed: search.html	with parameters: ['\xc3\xa4', None, None, u'start_date', 'desc']
+2012-46-10/17/12 09:46	accessed: search.html	with parameters: [None, None, None, u'project_name', 'asc']
+2012-46-10/17/12 09:46	accessed: project.html	with id: 1
+2012-46-10/17/12 09:46	accessed: techniques.html
+2012-46-10/17/12 09:46	accessed: index.html
+2012-46-10/17/12 09:46	accessed: index.html
+2012-46-10/17/12 09:46	accessed: index.html
+2012-46-10/17/12 09:46	accessed: project.html	with id: 1
+2012-46-10/17/12 09:46	accessed: index.html
+2012-46-10/17/12 09:46	accessed: project.html	with id: 3
+2012-46-10/17/12 09:46	accessed: project.html	with id: 5
+2012-47-10/17/12 09:47	accessed: index.html
+2012-47-10/17/12 09:47	accessed: search.html	with parameters: ['TDP', [u'project_name', u'course_name', u'course_id'], None, u'end_date', 'asc']
+2012-47-10/17/12 09:47	accessed: project.html	with id: 5
+2012-48-10/17/12 09:48	accessed: search.html	with parameters: ['LOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLOLO', None, None, u'start_date', 'desc']
+2012-49-10/17/12 09:49	accessed: search.html	with parameters: [None, None, [u'FLASK', u'JSON', u'Jinja 2', u'XHTML', u'ada'], u'start_date', 'desc']
+2012-49-10/17/12 09:49	accessed: search.html	with parameters: [None, None, [u'CSS', u'FLASK', u'Jinja 2', u'XHTML', u'ada', u'python'], u'start_date', 'desc']
+2012-49-10/17/12 09:49	accessed: index.html
+2012-49-10/17/12 09:49	accessed: index.html
+2012-49-10/17/12 09:49	accessed: index.html
+2012-50-10/17/12 09:50	accessed: list.html
+2012-50-10/17/12 09:50	accessed: techniques.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: index.html
+2012-50-10/17/12 09:50	accessed: search.html	with parameters: ['!"#\xc2\xa4%&/()=?:;\xc2\xbd>\xc2\xa71234567890+-.,<|@\xc2\xa3${[]}\\/*-+,', None, None, u'start_date', 'desc']
+2012-51-10/17/12 09:51	accessed: search.html	with parameters: ['INGET VETTIGT', [u'project_name'], None, u'start_date', 'desc']
+2012-51-10/17/12 09:51	accessed: search.html	with parameters: ['NEJ', [u'project_name'], None, u'start_date', 'desc']
+2012-51-10/17/12 09:51	accessed: search.html	with parameters: ['NEJ', [u'course_name'], None, u'start_date', 'desc']
+2012-51-10/17/12 09:51	accessed: search.html	with parameters: ['NEJ', [u'course_id'], None, u'start_date', 'desc']
+2012-51-10/17/12 09:51	accessed: search.html	with parameters: ['NEJ', None, [u'CSS'], u'start_date', 'desc']
+2012-53-10/17/12 09:53	accessed: index.html
+2012-53-10/17/12 09:53	accessed: index.html
+2012-53-10/17/12 09:53	accessed: index.html
+2012-53-10/17/12 09:53	accessed: index.html
+2012-54-10/17/12 09:54	accessed: project.html	with id: 2
+2012-54-10/17/12 09:54	accessed: list.html
+2012-54-10/17/12 09:54	accessed: techniques.html
+2012-54-10/17/12 09:54	accessed: techniques.html
+2012-54-10/17/12 09:54	accessed: search.html	with parameters: ['HEJ', None, None, u'start_date', 'desc']
+2012-54-10/17/12 09:54	accessed: search.html	with parameters: ['TDP', [u'course_id'], None, u'start_date', 'desc']
+2012-54-10/17/12 09:54	accessed: search.html	with parameters: ['NO NO NO', None, [u'python'], u'start_date', 'desc']
+2012-54-10/17/12 09:54	accessed: search.html	with parameters: [None, None, None, u'project_name', 'asc']
+2012-55-10/17/12 09:55	accessed: project.html	with id: 5
+2012-55-10/17/12 09:55	accessed: index.html
+2012-56-10/17/12 09:56	accessed: index.html
+2012-56-10/17/12 09:56	accessed: index.html
+2012-56-10/17/12 09:56	accessed: index.html
+2012-56-10/17/12 09:56	accessed: project.html	with id: 2
+2012-56-10/17/12 09:56	accessed: index.html
+2012-56-10/17/12 09:56	accessed: project.html	with id: 5
+2012-56-10/17/12 09:56	accessed: index.html
+2012-56-10/17/12 09:56	accessed: list.html
+2012-56-10/17/12 09:56	accessed: list.html
+2012-56-10/17/12 09:56	accessed: list.html
+2012-56-10/17/12 09:56	accessed: techniques.html
+2012-57-10/17/12 09:57	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-57-10/17/12 09:57	accessed: list.html
+2012-57-10/17/12 09:57	accessed: techniques.html
+2012-57-10/17/12 09:57	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-57-10/17/12 09:57	accessed: project.html	with id: 1
+2012-58-10/17/12 09:58	accessed: search.html	with parameters: [None, None, [u'python'], u'start_date', 'desc']
+2012-58-10/17/12 09:58	accessed: search.html	with parameters: ['TDP', [u'course_id'], None, u'start_date', 'desc']
+2012-58-10/17/12 09:58	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-58-10/17/12 09:58	accessed: index.html
+2012-58-10/17/12 09:58	accessed: search.html	with parameters: [None, None, None, u'start_date', 'asc']
+2012-58-10/17/12 09:58	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-59-10/17/12 09:59	accessed: index.html
+2012-59-10/17/12 09:59	accessed: list.html
+2012-59-10/17/12 09:59	accessed: index.html
+2012-59-10/17/12 09:59	accessed: index.html
+2012-59-10/17/12 09:59	accessed: list.html
+2012-00-10/17/12 10:00	accessed: list.html
+2012-00-10/17/12 10:00	accessed: list.html
+2012-00-10/17/12 10:00	accessed: techniques.html
+2012-01-10/17/12 10:01	accessed: search.html	with parameters: ['NO', None, None, u'start_date', 'desc']
+2012-01-10/17/12 10:01	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-01-10/17/12 10:01	accessed: project.html	with id: 1
+2012-01-10/17/12 10:01	accessed: project.html	with id: 123465
+2012-01-10/17/12 10:01	accessed: index.html
+2012-01-10/17/12 10:01	accessed: index.html
+2012-01-10/17/12 10:01	accessed: list.html
+2012-01-10/17/12 10:01	accessed: index.html
+2012-01-10/17/12 10:01	accessed: project.html	with id: 5
+2012-02-10/17/12 10:02	accessed: list.html
+2012-02-10/17/12 10:02	accessed: techniques.html
+2012-03-10/17/12 10:03	accessed: index.html
+2012-03-10/17/12 10:03	accessed: project.html	with id: 5
+2012-03-10/17/12 10:03	accessed: list.html
+2012-03-10/17/12 10:03	accessed: project.html	with id: 3
+2012-03-10/17/12 10:03	accessed: project.html	with id: 0
+2012-03-10/17/12 10:03	accessed: project.html	with id: 34567
+2012-03-10/17/12 10:03	accessed: techniques.html
+2012-03-10/17/12 10:03	accessed: search.html	with parameters: ['\xc3\xb6', [u'project_name'], None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: search.html	with parameters: ['\xc3\x96', None, None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: project.html	with id: 5
+2012-04-10/17/12 10:04	accessed: search.html	with parameters: ['\xc3\xb6', None, None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: search.html	with parameters: ['\xc3\xb6', None, None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: search.html	with parameters: ['\xc3\x96', [u'project_name'], None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: search.html	with parameters: [None, [u'course_name'], None, u'start_date', 'desc']
+2012-04-10/17/12 10:04	accessed: project.html	with id: 1
+2012-05-10/17/12 10:05	accessed: project.html	with id: 67890
+2012-05-10/17/12 10:05	accessed: project.html	with id: 67890
+2012-05-10/17/12 10:05	accessed: index.html
+2012-05-10/17/12 10:05	accessed: list.html
+2012-05-10/17/12 10:05	accessed: list.html
+2012-05-10/17/12 10:05	accessed: index.html
+2012-05-10/17/12 10:05	accessed: project.html	with id: 1
+2012-06-10/17/12 10:06	accessed: search.html	with parameters: ['\xc3\xa4', [u'course_name'], None, u'start_date', 'desc']
+2012-06-10/17/12 10:06	accessed: project.html	with id: 3
+2012-06-10/17/12 10:06	accessed: index.html
+2012-06-10/17/12 10:06	accessed: search.html	with parameters: [None, None, [u'c++'], u'end_date', 'desc']
+2012-07-10/17/12 10:07	accessed: project.html	with id: 3
+2012-07-10/17/12 10:07	accessed: project.html	with id: 3
+2012-10-10/17/12 10:10	accessed: index.html
+2012-10-10/17/12 10:10	accessed: list.html
+2012-10-10/17/12 10:10	accessed: techniques.html
+2012-10-10/17/12 10:10	accessed: index.html
+2012-11-10/17/12 10:11	accessed: list.html
+2012-11-10/17/12 10:11	accessed: search.html	with parameters: [None, None, [u'XHTML', u'c++'], u'start_date', 'desc']
+2012-11-10/17/12 10:11	accessed: search.html	with parameters: ['ORTFOLIO', [u'project_name'], None, u'start_date', 'desc']
+2012-11-10/17/12 10:11	accessed: techniques.html
+2012-12-10/17/12 10:12	accessed: search.html	with parameters: ['I DETTA PROJEKT', None, None, u'start_date', 'desc']
+2012-12-10/17/12 10:12	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-12-10/17/12 10:12	accessed: search.html	with parameters: ['C++', None, None, u'start_date', 'desc']
+2012-12-10/17/12 10:12	accessed: search.html	with parameters: ['NFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JYNFKEMNFESNFNESFKNSFKJNTOI4JJNEIJTJNEJTE4JTE4TJETJEL4TJEL4TJELTJELTEJ4TELKTJE4TEOTJEOTJE\xc3\xa4YJEJH5REKJY5K5JY', None, None, u'start_date', 'desc']
+2012-14-10/17/12 10:14	accessed: search.html	with parameters: ['ASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHGASDASDAWFDWFDADADWAGDWHGAGDDWAGDWAGDWAGADHGADWAGGDWAGDWAGADGADWGDWAHGADWAHGHGDWADWAHGFGEHGHGFESHGHG', None, None, u'start_date', 'desc']
+2012-14-10/17/12 10:14	accessed: list.html
+2012-14-10/17/12 10:14	accessed: project.html	with id: 5
+2012-14-10/17/12 10:14	accessed: project.html	with id: 1337
+2012-16-10/17/12 10:16	accessed: index.html
+2012-17-10/17/12 10:17	accessed: project.html	with id: 3
+2012-17-10/17/12 10:17	accessed: project.html	with id: 23131231232
+2012-17-10/17/12 10:17	accessed: index.html
+2012-17-10/17/12 10:17	accessed: project.html	with id: 5
+2012-17-10/17/12 10:17	accessed: techniques.html
+2012-17-10/17/12 10:17	accessed: project.html	with id: 5
+2012-17-10/17/12 10:17	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-17-10/17/12 10:17	accessed: search.html	with parameters: [None, None, [u'csv', u'python'], u'start_date', 'desc']
+2012-18-10/17/12 10:18	accessed: search.html	with parameters: [None, None, [u'JSON', u'XHTML'], u'start_date', 'desc']
+2012-18-10/17/12 10:18	accessed: search.html	with parameters: [None, None, [u'CSS', u'FLASK', u'Jinja 2'], u'start_date', 'desc']
+2012-18-10/17/12 10:18	accessed: search.html	with parameters: [None, None, [u'Jinja 2', u'python'], u'start_date', 'desc']
+2012-18-10/17/12 10:18	accessed: search.html	with parameters: [None, None, [u'JSON', u'python'], u'start_date', 'desc']
+2012-18-10/17/12 10:18	accessed: techniques.html
+2012-18-10/17/12 10:18	accessed: list.html
+2012-19-10/17/12 10:19	accessed: search.html	with parameters: ['[]', None, None, u'start_date', 'desc']
+2012-19-10/17/12 10:19	accessed: search.html	with parameters: ['//', None, None, u'start_date', 'desc']
+2012-19-10/17/12 10:19	accessed: search.html	with parameters: ['/', None, None, u'start_date', 'desc']
+2012-19-10/17/12 10:19	accessed: search.html	with parameters: ["'", None, None, u'start_date', 'desc']
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: list.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: list.html
+2012-19-10/17/12 10:19	accessed: techniques.html
+2012-19-10/17/12 10:19	accessed: index.html
+2012-19-10/17/12 10:19	accessed: techniques.html
+2012-22-10/17/12 10:22	accessed: index.html
+2012-24-10/17/12 10:24	accessed: project.html	with id: 4
+2012-24-10/17/12 10:24	accessed: index.html
+2012-24-10/17/12 10:24	accessed: project.html	with id: 5
+2012-24-10/17/12 10:24	accessed: list.html
+2012-24-10/17/12 10:24	accessed: project.html	with id: 5
+2012-24-10/17/12 10:24	accessed: list.html
+2012-24-10/17/12 10:24	accessed: project.html	with id: 3
+2012-24-10/17/12 10:24	accessed: techniques.html
+2012-24-10/17/12 10:24	accessed: project.html	with id: 5
+2012-25-10/17/12 10:25	accessed: search.html	with parameters: ['\xc3\xa4', None, None, u'start_date', 'desc']
+2012-25-10/17/12 10:25	accessed: search.html	with parameters: [None, [u'project_name'], None, u'start_date', 'desc']
+2012-25-10/17/12 10:25	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-26-10/17/12 10:26	accessed: search.html	with parameters: ['2009', None, None, u'start_date', 'desc']
+2012-26-10/17/12 10:26	accessed: search.html	with parameters: ['2012', None, None, u'start_date', 'desc']
+2012-26-10/17/12 10:26	accessed: index.html
+2012-28-10/17/12 10:28	accessed: list.html
+2012-28-10/17/12 10:28	accessed: techniques.html
+2012-30-10/17/12 10:30	accessed: index.html
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: [None, None, [u'CSS'], u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: ['CSS', None, None, u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: ['HAND', [u'course_name'], None, u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: ['TDP', [u'course_id'], None, u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: project.html	with id: 2
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: ['OK\xc3\x84NT', None, None, u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: list.html
+2012-31-10/17/12 10:31	accessed: search.html	with parameters: ['2012', None, None, u'start_date', 'desc']
+2012-31-10/17/12 10:31	accessed: list.html
+2012-32-10/17/12 10:32	accessed: search.html	with parameters: ['2009', None, None, u'start_date', 'desc']
+2012-32-10/17/12 10:32	accessed: search.html	with parameters: ['2009', None, None, u'start_date', 'asc']
+2012-32-10/17/12 10:32	accessed: techniques.html
+2012-32-10/17/12 10:32	accessed: techniques.html
+2012-33-10/17/12 10:33	accessed: project.html	with id: 3
+2012-33-10/17/12 10:33	accessed: list.html
+2012-33-10/17/12 10:33	accessed: techniques.html
+2012-33-10/17/12 10:33	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-34-10/17/12 10:34	accessed: search.html	with parameters: ['TDP002', [u'course_name'], None, u'start_date', 'desc']
+2012-34-10/17/12 10:34	accessed: list.html
+2012-34-10/17/12 10:34	accessed: project.html	with id: 5
+2012-34-10/17/12 10:34	accessed: techniques.html
+2012-34-10/17/12 10:34	accessed: project.html	with id: 5
+2012-35-10/17/12 10:35	accessed: search.html	with parameters: ['P', [u'project_name', u'course_name'], None, u'start_date', 'desc']
+2012-35-10/17/12 10:35	accessed: search.html	with parameters: ['P', [u'project_name'], [u'python'], u'start_date', 'desc']
+2012-35-10/17/12 10:35	accessed: search.html	with parameters: ['P', [u'project_name'], [u'python'], u'start_date', 'desc']
+2012-35-10/17/12 10:35	accessed: search.html	with parameters: [None, None, [u'csv', u'python'], u'start_date', 'desc']
+2012-35-10/17/12 10:35	accessed: list.html
+2012-36-10/17/12 10:36	accessed: search.html	with parameters: ['P', [u'project_name', u'course_name'], None, u'start_date', 'desc']
+2012-36-10/17/12 10:36	accessed: search.html	with parameters: ['PYTHON', [u'project_name', u'course_name'], None, u'start_date', 'desc']
+2012-36-10/17/12 10:36	accessed: search.html	with parameters: ['P', [u'course_name'], None, u'start_date', 'desc']
+2012-36-10/17/12 10:36	accessed: search.html	with parameters: ['P', [u'course_name'], None, u'start_date', 'desc']
+2012-36-10/17/12 10:36	accessed: search.html	with parameters: ['TDP', [u'course_name'], None, u'start_date', 'desc']
+2012-37-10/17/12 10:37	accessed: search.html	with parameters: ['TDP', None, None, u'start_date', 'desc']
+2012-37-10/17/12 10:37	accessed: search.html	with parameters: ['TDP', [u'course_name'], None, u'start_date', 'desc']
+2012-37-10/17/12 10:37	accessed: search.html	with parameters: [None, [u'course_name'], None, u'start_date', 'desc']
+2012-37-10/17/12 10:37	accessed: list.html
+2012-37-10/17/12 10:37	accessed: techniques.html
+2012-37-10/17/12 10:37	accessed: list.html
+2012-37-10/17/12 10:37	accessed: index.html
+2012-37-10/17/12 10:37	accessed: list.html
+2012-37-10/17/12 10:37	accessed: techniques.html
+2012-37-10/17/12 10:37	accessed: index.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: techniques.html
+2012-38-10/17/12 10:38	accessed: techniques.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: techniques.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: list.html
+2012-38-10/17/12 10:38	accessed: techniques.html
+2012-38-10/17/12 10:38	accessed: project.html	with id: 5
+2012-39-10/17/12 10:39	accessed: list.html
+2012-39-10/17/12 10:39	accessed: project.html	with id: 5
+2012-39-10/17/12 10:39	accessed: techniques.html
+2012-39-10/17/12 10:39	accessed: project.html	with id: 5
+2012-39-10/17/12 10:39	accessed: search.html	with parameters: ['\xc3\xb6', None, None, u'start_date', 'desc']
+2012-39-10/17/12 10:39	accessed: search.html	with parameters: ['\xc3\xb6', [u'course_name'], None, u'start_date', 'desc']
+2012-39-10/17/12 10:39	accessed: search.html	with parameters: ['[]', [u'course_id'], None, u'start_date', 'desc']
+2012-39-10/17/12 10:39	accessed: index.html
+2012-40-10/17/12 10:40	accessed: project.html	with id: 3
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: index.html
+2012-40-10/17/12 10:40	accessed: project.html	with id: 1
+2012-41-10/17/12 10:41	accessed: list.html
+2012-41-10/17/12 10:41	accessed: project.html	with id: 4
+2012-41-10/17/12 10:41	accessed: index.html
+2012-41-10/17/12 10:41	accessed: project.html	with id: 4
+2012-41-10/17/12 10:41	accessed: list.html
+2012-41-10/17/12 10:41	accessed: techniques.html
+2012-41-10/17/12 10:41	accessed: project.html	with id: 5
+2012-41-10/17/12 10:41	accessed: search.html	with parameters: ['\xc3\xb6\xc3\xa4', None, None, u'start_date', 'desc']
+2012-41-10/17/12 10:41	accessed: search.html	with parameters: ['\xc3\xb6', None, None, u'start_date', 'desc']
+2012-42-10/17/12 10:42	accessed: search.html	with parameters: ['OK\xc3\x96NT', None, None, u'start_date', 'desc']
+2012-42-10/17/12 10:42	accessed: search.html	with parameters: ['OK\xc3\x84NT', None, None, u'start_date', 'desc']
+2012-42-10/17/12 10:42	accessed: index.html
+2012-42-10/17/12 10:42	accessed: index.html
+2012-42-10/17/12 10:42	accessed: project.html	with id: 5
+2012-42-10/17/12 10:42	accessed: project.html	with id: 0
+2012-43-10/17/12 10:43	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: project.html	with id: 5
+2012-44-10/17/12 10:44	accessed: project.html	with id: 2
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: index.html
+2012-44-10/17/12 10:44	accessed: techniques.html
+2012-44-10/17/12 10:44	accessed: techniques.html
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: ['F\xc3\xb6LJER', None, None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: ['F\xc3\xb6LJER', None, None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: ['F\xc3\x96LJER', None, None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: [None, None, None, u'start_date', 'asc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: ['NEJ', [u'project_name'], None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: ['NJ', None, None, u'start_date', 'desc']
+2012-45-10/17/12 10:45	accessed: search.html	with parameters: [None, None, [u'ada'], u'end_date', 'desc']
+2012-46-10/17/12 10:46	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-46-10/17/12 10:46	accessed: techniques.html
+2012-46-10/17/12 10:46	accessed: project.html	with id: 1
+2012-46-10/17/12 10:46	accessed: list.html
+2012-46-10/17/12 10:46	accessed: techniques.html
+2012-47-10/17/12 10:47	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-47-10/17/12 10:47	accessed: project.html	with id: 1
+2012-47-10/17/12 10:47	accessed: list.html
+2012-47-10/17/12 10:47	accessed: project.html	with id: 5
+2012-47-10/17/12 10:47	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-48-10/17/12 10:48	accessed: index.html
+2012-48-10/17/12 10:48	accessed: list.html
+2012-48-10/17/12 10:48	accessed: search.html	with parameters: ['NO', None, None, u'end_date', 'asc']
+2012-48-10/17/12 10:48	accessed: index.html
+2012-48-10/17/12 10:48	accessed: list.html
+2012-49-10/17/12 10:49	accessed: list.html
+2012-49-10/17/12 10:49	accessed: techniques.html
+2012-49-10/17/12 10:49	accessed: index.html
+2012-49-10/17/12 10:49	accessed: project.html	with id: 4
+2012-49-10/17/12 10:49	accessed: search.html	with parameters: [',', None, None, u'start_date', 'desc']
+2012-50-10/17/12 10:50	accessed: project.html	with id: 5
+2012-50-10/17/12 10:50	accessed: techniques.html
+2012-50-10/17/12 10:50	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-52-10/17/12 10:52	accessed: project.html	with id: 5
+2012-52-10/17/12 10:52	accessed: search.html	with parameters: ['PYTHON', [u'project_name'], [u'python'], u'start_date', 'desc']
+2012-52-10/17/12 10:52	accessed: project.html	with id: 1
+2012-52-10/17/12 10:52	accessed: search.html	with parameters: ['PYTHON', None, None, u'start_date', 'desc']
+2012-52-10/17/12 10:52	accessed: search.html	with parameters: ['TDP003', [u'course_name'], None, u'start_date', 'desc']
+2012-52-10/17/12 10:52	accessed: list.html
+2012-52-10/17/12 10:52	accessed: project.html	with id: 5
+2012-52-10/17/12 10:52	accessed: search.html	with parameters: ['TDP003', [u'course_id'], None, u'start_date', 'desc']
+2012-52-10/17/12 10:52	accessed: project.html	with id: 2
+2012-52-10/17/12 10:52	accessed: list.html
+2012-52-10/17/12 10:52	accessed: project.html	with id: 5
+2012-53-10/17/12 10:53	accessed: project.html	with id: 546
+2012-53-10/17/12 10:53	accessed: project.html	with id: 0
+2012-53-10/17/12 10:53	accessed: project.html	with id: 0
+2012-53-10/17/12 10:53	accessed: techniques.html
+2012-53-10/17/12 10:53	accessed: project.html	with id: 3
+2012-53-10/17/12 10:53	accessed: search.html	with parameters: ['%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&%\xc2\xa4&FGHHHGDJ\xc2\xa4W\xc2\xa4&', None, None, u'start_date', 'desc']
+2012-53-10/17/12 10:53	accessed: techniques.html
+2012-53-10/17/12 10:53	accessed: techniques.html
+2012-53-10/17/12 10:53	accessed: index.html
+2012-54-10/17/12 10:54	accessed: search.html	with parameters: ['PORTFOLIOPROJEKTET', [u'project_name'], [u'CSS', u'FLASK'], u'start_date', 'desc']
+2012-54-10/17/12 10:54	accessed: project.html	with id: 5
+2012-54-10/17/12 10:54	accessed: search.html	with parameters: [None, None, None, u'start_date', 'asc']
+2012-54-10/17/12 10:54	accessed: search.html	with parameters: ['2009-09-07', None, None, u'start_date', 'desc']
+2012-54-10/17/12 10:54	accessed: project.html	with id: 4
+2012-54-10/17/12 10:54	accessed: index.html
+2012-54-10/17/12 10:54	accessed: index.html
+2012-54-10/17/12 10:54	accessed: list.html
+2012-55-10/17/12 10:55	accessed: techniques.html
+2012-55-10/17/12 10:55	accessed: project.html	with id: 5
+2012-55-10/17/12 10:55	accessed: project.html	with id: 789
+2012-56-10/17/12 10:56	accessed: search.html	with parameters: [None, None, [u'CSS', u'FLASK', u'JSON', u'Jinja 2', u'XHTML', u'ada', u'c++', u'csv', u'python'], u'start_date', 'desc']
+2012-56-10/17/12 10:56	accessed: search.html	with parameters: [None, None, [u'XHTML', u'ada', u'c++', u'csv'], u'start_date', 'desc']
+2012-57-10/17/12 10:57	accessed: index.html
+2012-57-10/17/12 10:57	accessed: project.html	with id: 2
+2012-57-10/17/12 10:57	accessed: index.html
+2012-57-10/17/12 10:57	accessed: index.html
+2012-57-10/17/12 10:57	accessed: techniques.html
+2012-57-10/17/12 10:57	accessed: search.html	with parameters: [None, None, None, u'start_date', 'desc']
+2012-58-10/17/12 10:58	accessed: project.html	with id: 2
+2012-58-10/17/12 10:58	accessed: index.html
+2012-58-10/17/12 10:58	accessed: project.html	with id: 4
+2012-58-10/17/12 10:58	accessed: list.html
+2012-58-10/17/12 10:58	accessed: techniques.html
+2012-58-10/17/12 10:58	accessed: search.html	with parameters: [None, None, [u'CSS', u'FLASK'], u'start_date', 'desc']
+2012-58-10/17/12 10:58	accessed: search.html	with parameters: [None, [u'project_name', u'course_name', u'course_id'], None, u'start_date', 'desc']
+2012-02-10/17/12 11:02	accessed: project.html	with id: 1
+2012-02-10/17/12 11:02	accessed: search.html	with parameters: ['\xc3\x84', None, None, u'start_date', 'desc']
+2012-02-10/17/12 11:02	accessed: project.html	with id: 5
+2012-02-10/17/12 11:02	accessed: techniques.html
+2012-02-10/17/12 11:02	accessed: project.html	with id: 5
+2012-03-10/17/12 11:03	accessed: index.html
+2012-03-10/17/12 11:03	accessed: index.html
+2012-03-10/17/12 11:03	accessed: project.html	with id: 5
+2012-03-10/17/12 11:03	accessed: search.html	with parameters: [None, None, [u'Jinja 2', u'XHTML', u'ada', u'c++', u'csv', u'python'], u'start_date', 'desc']
+2012-03-10/17/12 11:03	accessed: search.html	with parameters: ['\xc3\xb6', [u'project_name', u'course_id'], [u'CSS'], u'project_name', 'asc']
+2012-03-10/17/12 11:03	accessed: search.html	with parameters: ['FEL', None, None, u'start_date', 'desc']
+2012-03-10/17/12 11:03	accessed: list.html
+2012-03-10/17/12 11:03	accessed: search.html	with parameters: [None, None, [u'python'], u'start_date', 'desc']
+2012-03-10/17/12 11:03	accessed: search.html	with parameters: [None, None, [u'c++', u'python'], u'start_date', 'desc']
+2012-04-10/17/12 11:04	accessed: project.html	with id: 3
+2012-04-10/17/12 11:04	accessed: search.html	with parameters: [None, None, [u'python'], u'project_name', 'desc']
+2012-04-10/17/12 11:04	accessed: search.html	with parameters: [None, None, None, u'start_date', 'asc']
+2012-04-10/17/12 11:04	accessed: search.html	with parameters: [None, None, [u'python'], u'project_name', 'desc']
+2012-04-10/17/12 11:04	accessed: search.html	with parameters: [None, None, [u'python'], u'project_name', 'asc']
+2012-04-10/17/12 11:04	accessed: search.html	with parameters: ['NEJ', None, None, u'start_date', 'desc']
+2012-04-10/17/12 11:04	accessed: project.html	with id: 3
+2012-05-10/17/12 11:05	accessed: techniques.html
+2012-05-10/17/12 11:05	accessed: list.html
+2012-05-10/17/12 11:05	accessed: project.html	with id: 4
+2012-06-10/17/12 11:06	accessed: project.html	with id: 4
+2012-06-10/17/12 11:06	accessed: index.html
+2012-06-10/17/12 11:06	accessed: index.html
+2012-06-10/17/12 11:06	accessed: list.html
+2012-06-10/17/12 11:06	accessed: techniques.html
+2012-06-10/17/12 11:06	accessed: list.html
+2012-07-10/17/12 11:07	accessed: index.html
+2012-07-10/17/12 11:07	accessed: index.html
+2012-07-10/17/12 11:07	accessed: index.html
+2012-07-10/17/12 11:07	accessed: list.html
+2012-07-10/17/12 11:07	accessed: index.html
+2012-08-10/17/12 11:08	accessed: index.html
+2012-08-10/17/12 11:08	accessed: search.html	with parameters: [None, None, [u'XHTML', u'ada'], u'start_date', 'desc']
+2012-08-10/17/12 11:08	accessed: list.html
+2012-08-10/17/12 11:08	accessed: index.html
+2012-08-10/17/12 11:08	accessed: techniques.html
+2012-08-10/17/12 11:08	accessed: project.html	with id: 5
+2012-08-10/17/12 11:08	accessed: search.html	with parameters: [None, None, [u'FLASK'], u'project_name', 'desc']
