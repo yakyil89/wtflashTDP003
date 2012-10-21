@@ -89,11 +89,12 @@
 	"CSS",
 	"FLASK",
 	"Jinja 2",
-	"JSON"
+	"JSON",
+	"Git"
     ],
     "project_name": "Portfolioprojektet",
     "course_id": "TDP003",
-    "end_date": "2012-10-24",
+    "end_date": "2012-10-28",
     "project_no": 5,
     "big_image": "elebant.jpg"
   }

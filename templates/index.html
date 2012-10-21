@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% block content %}
-<div id="article_header"><h1>Portfolio</h1></div>
+<div id="article_header"><h1>Slumpade Projekt</h1></div>
 
 {% for d in data.get_random_projects(db) %}
 <a href="/project/{{d['project_no']}}">
