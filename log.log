@@ -552,3 +552,29 @@
 2012-20-10/21/12 12:20	accessed: index.html
 2012-42-10/21/12 12:42	accessed: index.html
 2012-42-10/21/12 12:42	accessed: project.html	with id: 2
+2012-35-10/21/12 13:35	accessed: index.html
+2012-35-10/21/12 13:35	accessed: project.html	with id: 5
+2012-35-10/21/12 13:35	accessed: search.html	with parameters: ['HEJ', None, None, u'start_date', 'desc']
+2012-35-10/21/12 13:35	accessed: search.html	with parameters: ['1', None, None, u'start_date', 'desc']
+2012-35-10/21/12 13:35	accessed: search.html	with parameters: ['\xc3\xa5\xc3\xa4\xc3\xb6', None, None, u'start_date', 'desc']
+2012-35-10/21/12 13:35	accessed: search.html	with parameters: ['OK\xc3\xa4NT', None, None, u'start_date', 'desc']
+2012-35-10/21/12 13:35	accessed: search.html	with parameters: ['PORTFOLIO', None, None, u'start_date', 'desc']
+2012-36-10/21/12 13:36	accessed: search.html	with parameters: ['PORTFOLIO', None, None, u'start_date', 'desc']
+2012-36-10/21/12 13:36	accessed: search.html	with parameters: ['HEJ D\xc3\xa5', None, None, u'start_date', 'desc']
+2012-36-10/21/12 13:36	accessed: search.html	with parameters: ['OK\xc3\xa4NT', None, None, u'start_date', 'desc']
+2012-36-10/21/12 13:36	accessed: search.html	with parameters: ['OK\xc3\x84NT', None, None, u'start_date', 'desc']
+2012-46-10/21/12 13:46	accessed: search.html	with parameters: [None, None, None, u'project_name', 'desc']
+2012-47-10/21/12 13:47	accessed: search.html	with parameters: [None, None, None, u'project_name', 'asc']
+2012-47-10/21/12 13:47	accessed: project.html	with id: 4
+2012-50-10/21/12 13:50	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-50-10/21/12 13:50	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-51-10/21/12 13:51	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-53-10/21/12 13:53	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-54-10/21/12 13:54	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-54-10/21/12 13:54	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-00-10/21/12 14:00	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-02-10/21/12 14:02	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-02-10/21/12 14:02	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-02-10/21/12 14:02	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-02-10/21/12 14:02	accessed: search.html	with parameters: [None, None, None, u'end_date', 'desc']
+2012-02-10/21/12 14:02	accessed: search.html	with parameters: [None, None, None, u'end_date', 'asc']

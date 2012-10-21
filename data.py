@@ -3,7 +3,8 @@
 
 """
 This module makes out the data layer of the portfolio project in the
-course TDP003 at Innovativ Programmering, Linköping's University, Sweden
+course TDP003 at Innovativ Programmering, Linköping's University, Sweden.
+It provides useful functions to run the website.
 """
 
 import json
@@ -29,11 +30,12 @@ def get_project(db, id):
     for i in db:
         if i["project_no"] == id:
             return i
+    # Return None if project-id doesn't exist.
     return
 
 def get_techniques(db):
     """Returns a list of all techniques used, ordered alphabetically."""
-    # Use set instead of list to avoid duplets
+    # Use set instead of list to avoid doublets.
     the_set = set()
     for i in db:
         for t in i["techniques_used"]:
@@ -44,8 +46,7 @@ def get_techniques(db):
     return lis
 
 def get_ids(db):
-    """Returns a list of all project-ids"""
-    # Use set instead of list to avoid duplets
+    """Returns a list of all project-ids."""
     lst = []
     for d in db:
         lst.append(d['project_no'])
@@ -53,8 +54,9 @@ def get_ids(db):
     return lst
 
 def get_technique_stats(db):
-    """Reads a list of projects and returns a dictionary with stats for the
-    used techniques."""
+    """Reads a list of projects and returns a dictionary where the keys are
+    the techniques used and the values are lists containing dictionaries of
+    the id and name of all projects using that technique."""
     # Variable that holds all techniques used.
     techs = get_techniques(db)
     # Creates an empty dictionary to hold the technique statistics.
@@ -84,10 +86,9 @@ def free_search(db, search):
     lis = []
     # Return all projects if search == None
     if search == None:
-        lis = db
-        return lis
+        return db
+
     if isinstance(search, (unicode, str)):
-        #search = search.upper()
         for i in range(len(db)):
             for p in db[i]:
                 # Without this line the code will fail when it comes to an int.
@@ -101,17 +102,17 @@ def free_search(db, search):
                     search = search.upper()
                     if search in project_upper:
                         lis.append(db[i])
-                        # Break the loop to prevent duplets.
+                        # Break the loop to prevent doublets.
                         break
     return lis
 
 def free_search_limited(db, search, search_fields):
-    """Free search with limited search fields to search in."""
+    """Free search with limited search fields."""
     lis = []
     # Return all projects if search == None
     if search == None:
-        lis = db
-        return lis
+        return db
+
     if isinstance(search, (unicode, str)):
         for i in range(len(db)):
             for p in search_fields:
@@ -126,7 +127,7 @@ def free_search_limited(db, search, search_fields):
                     search = search.upper()
                     if search in project_upper:
                         lis.append(db[i])
-                        # Break the loop to prevent duplets.
+                        # Break the loop to prevent doublets.
                         break
     return lis
 
@@ -134,9 +135,6 @@ def search(db, sort_by=u'start_date', sort_order=u'desc', techniques=None,
            search=None, search_fields=None):
     """Given a set of parameters, this function searches through the matching
     project. Returns a list of the projects and their attributes."""
-
-    if search != None:
-        search = search.decode('UTF-8')
 
     # Return empty list if search or search_fields is empty.
     if search_fields == '':
@@ -169,24 +167,12 @@ def search(db, sort_by=u'start_date', sort_order=u'desc', techniques=None,
             for t in range(len(techniques)):
                 if techniques[t] in lis[i][u'techniques_used']:
                     tech_lis.append(lis[i])
-                    # Break to avoid duplets.
+                    # Break to avoid doublets.
                     break
     
-    # --Order the list--
-    # Creates a list to hold the values to sort.
-    sort_key = []
-    sorted_lis = []
-    for i in range(len(tech_lis)):
-        sort_key.append(tech_lis[i][sort_by])
-    sort_key.sort() 
-    if sort_order == 'desc':
-        sort_key.reverse()
+    # --Sort the list--
+    sorted_lis = order(tech_lis, sort_by, sort_order)
 
-    for k in range(len(sort_key)):
-        for l in range(len(tech_lis)):
-            # Appends objects from tech_lis to sorted_lis in sorted order.
-            if tech_lis[l][sort_by] == sort_key[k]:
-                sorted_lis.append(tech_lis[l])
     return sorted_lis
 
 def get_random_projects(db):
@@ -202,14 +188,16 @@ def get_random_projects(db):
         res.append(get_project(db, l))
     return res
 
-def order(db, sort_by='start_date'):
-    """Takes a database an a key and sorts the db after the key's values."""
+def order(db, sort_by='start_date', sort_order='asc'):
+    """Takes a database and a key and sorts the db after the key's values."""
     sort_key = []
     sorted_lis = []
     for i in range(len(db)):
-        sort_key.append(db[i][sort_by])
+        if not db[i][sort_by] in sort_key:
+            sort_key.append(db[i][sort_by])
     sort_key.sort()
-    sort_key.reverse()
+    if sort_order == 'desc':
+        sort_key.reverse()
 
     for k in range(len(sort_key)):
         for l in range(len(db)):

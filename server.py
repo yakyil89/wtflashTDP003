@@ -11,7 +11,7 @@ db = data.load('data.json')
 # List of all used techniques.
 all_techniques = data.get_techniques(db)
 
-# Variabel to run the website.
+# Variabel used to run the website.
 app = Flask(__name__)
 app.debug = True
 
