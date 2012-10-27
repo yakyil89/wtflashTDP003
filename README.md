@@ -27,6 +27,12 @@ Installationsanvisningar:
 
 ------------------------------------------------------------------------------------------
 
+Användarmanual:
+
+Användarmanual finns bifogad i samma mapp som README (Användarmanual.pdf).
+
+------------------------------------------------------------------------------------------
+
 Systempaketering:
 
 static/images/ - här ligger alla bilder på hemsidan.
