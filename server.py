@@ -1,6 +1,6 @@
 # -*- coding-utf-8 -*-
 """Server module that makes the website able to run, also redirects the
-links on the pages to the right pages."""
+links to the right pages."""
 
 from flask import Flask, request, url_for, render_template
 import data
@@ -77,17 +77,22 @@ def search():
     sort_by = request.form['sort_by']
 
     sort_order = request.form['sort_order'].encode('UTF-8')
-    
+
     logtext = [key, search_fields, techniques, sort_by, sort_order]
     log('search.html', ('parameters: ' + str(logtext)))
-    
+
     lst = data.search(db, search=key, search_fields=search_fields, techniques=techniques, sort_by=sort_by, sort_order=sort_order)
     return render_template('search.html', data=data, db=db, lst=lst)
-    
+
 @app.errorhandler(404)
 def page_not_found(e):
     """Handles 404-errors"""
     return render_template('404.html', data=data, db=db), 404
+
+@app.errorhandler(405)
+def failed_search(e):
+    """Handles problems with the method POST"""
+    return render_template('405.html', data=data, db=db), 405
 
 @app.errorhandler(500)
 def page_not_found(e):

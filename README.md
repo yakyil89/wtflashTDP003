@@ -67,3 +67,9 @@ bara att ändra värdena i det nya projektblocket.
 
 för att lägga till eller ändra bilder kan detta göras i portfolio/static/images.
 (De små bilderna ska helst ha en maximal bredd av 150 pixlar och de stora 610 pixlar).
+
+------------------------------------------------------------------------------------------
+
+Länk till loggbok:
+
+http://antli1.blogspot.se/
